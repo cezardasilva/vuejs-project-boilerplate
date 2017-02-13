@@ -1,6 +1,6 @@
-# Vue.js Boilerplate
+# Vue.js 2 Project Boilerplate
 
-> This Boilerplate is made for Vue.js and uses Webpack to generate a Development WebServer and production files.
+> This project template is made for Vue.js and uses Webpack to generate a Development WebServer and production files.
 > Follow these Steps to Development or make Production Build.
 
 ## Build Setup
@@ -18,3 +18,7 @@ npm run build
 # Grunt Watch SCSS files
 grunt watch
 ```
+
+## SCSS Structure
+
+This boilerplate uses ITCSS organization to SCSS files. For more information [Click here](https://speakerdeck.com/dafed/managing-css-projects-with-itcss)
